@@ -64,9 +64,7 @@ print(f"Loyalty Score: {loyalty_sim.output['loyalty']:.2f} / 100")
 
 ## 📁 Files | فایل‌ها
 
-* `loyalty_system.py` → کد اصلی سیستم فازی
 * `example.ipynb` → مثال اجرایی با جداول و نمودار
-* `rules_table.pdf` → جدول قوانین فازی
 * `README.md` → مستندات پروژه
 
 ---
